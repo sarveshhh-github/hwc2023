@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Argentina",
+    "ranking": 7,
+    "pool": "A"
+  },
+  {
+    "name": "Australia",
+    "ranking": 1,
+    "pool": "A"
+  },
+  {
+    "name": "France",
+    "pool": "A",
+    "ranking": 12
+  },
+  {
+    "name": "South-Africa",
+    "pool": "A",
+    "ranking": 14
+  },
+  {
+    "name": "Belgium",
+    "pool": "B",
+    "ranking": 2
+  },
+  {
+    "name": "Germany",
+    "pool": "B",
+    "ranking": 4
+  },
+  {
+    "name": "Japan",
+    "pool": "B",
+    "ranking": 16
+  },
+  {
+    "name": "Korea",
+    "pool": "B",
+    "ranking": 10
+  },
+  {
+    "name": "Chile",
+    "pool": "C",
+    "ranking": 22
+  },
+  {
+    "name": "Malaysia",
+    "pool": "C",
+    "ranking": 11
+  },
+  {
+    "name": "Netherlands",
+    "pool": "C",
+    "ranking": 3
+  },
+  {
+    "name": "New Zealand",
+    "pool": "C",
+    "ranking": 9
+  },
+  {
+    "name": "England",
+    "pool": "D",
+    "ranking": 5
+  },
+  {
+    "name": "India",
+    "pool": "D",
+    "ranking": 6
+  },
+  {
+    "name": "Wales",
+    "pool": "D",
+    "ranking": 16
+  },
+  {
+    "name": "Spain",
+    "pool": "C",
+    "ranking": 8
+  }
+]
